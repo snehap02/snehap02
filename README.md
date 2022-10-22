@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/snehap02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/snehap02" height="30" width="40" /></a>
+<a href="https://codepen.io/snehap02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/snehap02" height="30" width="40" /></a>
 <a href="https://twitter.com/snehapurkayast8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehapurkayast8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sneha-purkayastha-3b3aa1160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-purkayastha-3b3aa1160/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@snehapurkayastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@snehapurkayastha" height="30" width="40" /></a>
+<a href="https://hashnode.com/@snehapurkayastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@snehapurkayastha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
