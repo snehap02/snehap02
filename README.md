@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on a project
+- 🔭 I’m currently working on devChallenge Projects (Responsive Website Challenges)
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : [Gmail](iamsneha0296@gmail.com) OR [twitter](https://twitter.com/SnehaPurkayast8)
 - :book: Read my Blogs on : [Hashnode](https://snehapurkayastha.hashnode.dev/)
