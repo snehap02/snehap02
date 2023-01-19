@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sneha Purkayastha</h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/58648780/197334136-4c6c5b96-7e3d-43c9-a5c3-626f07184f13.png" width="800"></p>
-<h3 align = "center">Sharing my journey of<a href="https://twitter.com/SnehaPurkayast8"><i> #100DaysOfCode </i></a> on Twitter </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehap02&label=Profile%20views&color=0e75b6&style=flat" alt="snehap02" /> </p>
 <p align="left"> <a href="https://twitter.com/snehapurkayast8" target="blank"><img src="https://img.shields.io/twitter/follow/snehapurkayast8?logo=twitter&style=for-the-badge" alt="snehapurkayast8" /></a> </p>
 
 
 
-- 🔭 I’m currently working on devChallenge Projects (Responsive Website Challenges)
+- 🔭 I’m currently working on JS Projects 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : [Gmail](iamsneha0296@gmail.com) OR [twitter](https://twitter.com/SnehaPurkayast8)
 - :book: Read my Blogs on : [Hashnode](https://snehapurkayastha.hashnode.dev/)
