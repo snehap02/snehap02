@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on JS Projects 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me : [Gmail](iamsneha0296@gmail.com) OR [twitter](https://twitter.com/SnehaPurkayast8)
 - :book: Read my Blogs on : [Hashnode](https://snehapurkayastha.hashnode.dev/)
 
