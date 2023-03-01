@@ -2,7 +2,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/58648780/197334136-4c6c5b96-7e3d-43c9-a5c3-626f07184f13.png" width="800"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehap02&label=Profile%20views&color=0e75b6&style=flat" alt="snehap02" /> </p>
-<p align="left"> <a href="https://twitter.com/snehapurkayast8" target="blank"><img src="https://img.shields.io/twitter/follow/snehapurkayast8?logo=twitter&style=for-the-badge" alt="snehapurkayast8" /></a> </p>
 
 
 
