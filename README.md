@@ -70,7 +70,7 @@ I am a Front-end Developer. My expertise is in the field of Responsive designs a
 
 <h1 align = center>
   <img src="https://user-images.githubusercontent.com/58648780/227189720-5cf5572b-fa9a-479e-aa36-5997e9b3e196.gif">
-  Languages and Tools I Use
+  Languages, Frameworks and Tools I Use
   <img src="https://user-images.githubusercontent.com/58648780/227189802-8f9eee3d-df4b-4312-bbb7-7c3ab31eda15.gif">
 </h1>
 <p align = center>
