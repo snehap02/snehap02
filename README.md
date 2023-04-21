@@ -95,13 +95,6 @@ I am a Front-end Developer. My expertise is in the field of Responsive designs a
   <img src = "https://user-images.githubusercontent.com/58648780/227179010-ef5311df-2fb6-440f-b61f-766def1c83bc.png" width = "60" height = "60">
 </p>
 <br>
-<p align = center>
-  
-  ```
-  In addition to my attachment with making beautiful websites, I also love to read novels and also try to write some useful blogs. 
-  ```
- 
-</p>
 
 <h1 align = center>
   <img src="https://user-images.githubusercontent.com/58648780/227171965-be71acc3-9949-465d-8859-e90f37198872.gif" width="30">
