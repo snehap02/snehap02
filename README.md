@@ -1,5 +1,12 @@
 <h2 align="left">Hi 👋! My name is Sneha and I'm a front-end developer from Asaam</h2>
 
+<h3 align = center> 
+  About Me
+</h3>
+<p align = center>
+I am a Front-end Developer. My expertise is in the field of Responsive designs and I love to engage myself with tailwindcss.
+</p>
+
 ###
 
 <div align="center">
@@ -61,6 +68,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/snehap02/snehap02/output/snake.svg" alt="Snake animation" />
+<h2 align = center>
+  My Blogs : <a href = "https://snehapurkayastha.hashnode.dev/"><img src = "https://user-images.githubusercontent.com/58648780/227184034-b943bf82-5186-4643-b96e-af7c4e070166.png" width ="20"></a>
+</h2>
+<p align = center>
+  <a href = "https://snehapurkayastha.hashnode.dev/10-amazing-vs-code-extensions-for-web-developers"><img src = "https://user-images.githubusercontent.com/58648780/227187406-cd7499a5-9364-4720-abc8-64c4a9e458d6.png" width="200">
+    &nbsp;
+    &nbsp;
+  <a href = "https://snehapurkayastha.hashnode.dev/exploring-the-window-console"><img src = "https://user-images.githubusercontent.com/58648780/227187979-dd40eda8-3b10-4e42-83ad-31d2cc49e8bf.png" width="200">
+    &nbsp;
+    &nbsp;
+  <a href = "https://snehapurkayastha.hashnode.dev/javascript-arrays"><img src = "https://user-images.githubusercontent.com/58648780/227188521-eef5b280-cc01-413b-bf66-42eda31c0f30.png" width="200">
+    &nbsp;
+    &nbsp;
+  <a href = "https://snehapurkayastha.hashnode.dev/everything-you-need-to-know-from-installing-tailwindcss-to-deploying-a-tailwind-website-to-production"><img src = "https://user-images.githubusercontent.com/58648780/227188823-47ba031d-f98e-4bf7-b12e-3fb760b62747.png" width="200">
+</p>
 
 ###
