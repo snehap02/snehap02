@@ -43,13 +43,13 @@ I am a Front-end Developer. My expertise is in the field of Responsive designs a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="github logo"  />
+  <img src="https://github.com/snehap02/snehap02/assets/58648780/1d7c3207-44b5-40a9-81b7-3c5a4426440e" height="48" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="48" alt="codepen logo"  />
+  <img src="https://github.com/snehap02/snehap02/assets/58648780/7bfa20a5-1c8a-4aeb-a817-08549818d6bd" height="56" alt="codepen logo"  />
 </div>
 
 ###
