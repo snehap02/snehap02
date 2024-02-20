@@ -39,7 +39,7 @@ I am a Front-end Developer. My expertise is in the field of Responsive designs a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="tailwindcss logo"  />
+  <img src="https://github.com/snehap02/snehap02/assets/58648780/0c83bf36-1c56-4578-97c7-db619caffded" height="46" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
   <img width="12" />
