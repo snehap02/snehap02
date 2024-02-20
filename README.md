@@ -33,6 +33,8 @@ I am a Front-end Developer. My expertise is in the field of Responsive designs a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
   <img width="12" />
+  <img src="https://github.com/snehap02/snehap02/assets/58648780/3cec044b-791a-49b5-9950-297215350397" height="48" alt="thunkable logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />
